@@ -19,7 +19,6 @@ export * from "./browser-utils.js";
 export * from "./identity-change-handler.js";
 export * from "./stanza-ack.js";
 export * from "./rich-messages.js";
-export * from "./sticker-pack.js";
 export * from "./lid-utils.js";
 export * from "./scheduled-messages.js";
 export * from "./anti-ban.js";
